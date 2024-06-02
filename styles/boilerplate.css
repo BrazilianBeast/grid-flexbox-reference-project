@@ -1,0 +1,11 @@
+body, ul, li, p {
+  margin: 0;
+  padding: 0px;
+  list-style: none;
+  font-size: 1.2rem;
+  font-family: "Inter";
+}
+
+a {
+  text-decoration: none;
+}/*# sourceMappingURL=boilerplate.css.map */
