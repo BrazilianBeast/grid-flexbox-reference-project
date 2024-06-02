@@ -11,5 +11,5 @@ The goal of this project is to be a reference when developing both flex and grid
 
 ## Screenshot
 
-![App Screenshot](https://github.com/BrazilianBeast/grid-flexbox-reference-project/img/mock/reference.png)
+![App Screenshot](https://github.com/BrazilianBeast/grid-flexbox-reference-project/blob/master/img/mock/reference.png)
 
